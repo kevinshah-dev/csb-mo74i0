@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://kevinshah-dev.github.io/csb-mo74i0/static/css/main.cb3607f7.chunk.css",
+    "main.js": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/main.7788dedb.chunk.js",
+    "main.js.map": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/main.7788dedb.chunk.js.map",
+    "runtime-main.js": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/runtime-main.ff5a7d17.js",
+    "runtime-main.js.map": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/runtime-main.ff5a7d17.js.map",
+    "static/css/2.dac14ecb.chunk.css": "https://kevinshah-dev.github.io/csb-mo74i0/static/css/2.dac14ecb.chunk.css",
+    "static/js/2.8eb89104.chunk.js": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/2.8eb89104.chunk.js",
+    "static/js/2.8eb89104.chunk.js.map": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/2.8eb89104.chunk.js.map",
+    "index.html": "https://kevinshah-dev.github.io/csb-mo74i0/index.html",
+    "service-worker.js": "https://kevinshah-dev.github.io/csb-mo74i0/service-worker.js",
+    "service-worker.js.map": "https://kevinshah-dev.github.io/csb-mo74i0/service-worker.js.map",
+    "static/css/2.dac14ecb.chunk.css.map": "https://kevinshah-dev.github.io/csb-mo74i0/static/css/2.dac14ecb.chunk.css.map",
+    "static/css/main.cb3607f7.chunk.css.map": "https://kevinshah-dev.github.io/csb-mo74i0/static/css/main.cb3607f7.chunk.css.map",
+    "static/js/2.8eb89104.chunk.js.LICENSE.txt": "https://kevinshah-dev.github.io/csb-mo74i0/static/js/2.8eb89104.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5a7d17.js",
+    "static/css/2.dac14ecb.chunk.css",
+    "static/js/2.8eb89104.chunk.js",
+    "static/css/main.cb3607f7.chunk.css",
+    "static/js/main.7788dedb.chunk.js"
+  ]
+}
